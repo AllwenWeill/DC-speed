@@ -5,10 +5,10 @@ The demo needs to input a speed sequence less than 60, connect each speed with a
 
 Display effect：
 
-Input interface
+<Input interface>
 
 ![image](https://github.com/AllwenWeill/IMG/blob/main/%E6%88%AA%E5%9B%BE9.png)
 
-Chart interface
+<Chart interface>
 
 ![image](https://github.com/AllwenWeill/IMG/blob/main/%E6%88%AA%E5%9B%BE10.png)
