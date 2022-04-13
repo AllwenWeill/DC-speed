@@ -1,7 +1,9 @@
 # Auto-drawing-speed-range-map
 **By putting in a lot of speed, the speed sequence is sorted and divided, three types of speed interval distribution maps are generated.(including broken line graph,histogram and curve graph)
 This project is implemented on QT using c++.
-The demo needs to input a speed sequence less than 60, connect each speed with a comma, and input an even number of speeds. If you think the speed sequence of this input does not meet your requirements, you can easily change it in the source code.**
+The demo needs to input a speed sequence less than 60, connect each speed with a comma, and input an even number of speeds. If you think the speed sequence of this input does not meet your requirements, you can easily change it in the source code.
+Operation process: "输入车速序列"-->"获取"-->"确定"
+**
 
 Display effect：
 
