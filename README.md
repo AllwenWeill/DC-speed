@@ -14,3 +14,6 @@ Display effect：
 **Chart interface**
 
 ![image](https://github.com/AllwenWeill/IMG/blob/main/%E6%88%AA%E5%9B%BE10.png)
+
+## **更新**  
+2022.5.13————更新首界面,增加三个数据按钮,可以随机生成五十组符合城市实测的车速数据,分为符合正态分布的车速数据(vaild),和不和正态分布的数据(invaild)；\
