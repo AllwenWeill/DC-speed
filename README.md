@@ -7,9 +7,9 @@ The demo needs to input a speed sequence less than 60, connect each speed with a
 
 Display effect：
 
-**Input interface**
+**Input interface**（offer three pushbuttons, you can get fifty sets of data(in accordance with normal distribution or not and example data)）
 
-![image](https://github.com/AllwenWeill/IMG/blob/main/%E6%88%AA%E5%9B%BE9.png)
+![image](https://github.com/AllwenWeill/IMG/blob/main/DC-speed%E9%A6%96%E9%A1%B5.png)
 
 **Chart interface**
 
